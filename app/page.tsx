@@ -132,11 +132,11 @@ export default function Home() {
             </p>
 
             <h2 className="mt-4 text-4xl font-bold tracking-tight text-[#15375c] md:text-5xl">
-              Más que aprender a vender.
+              Aprende a vender.
             </h2>
 
             <p className="mt-6 text-lg leading-8 text-slate-600">
-              Desarrolla una metodología comercial que conecta ventas,
+              Desarrollando una metodología comercial que conecta ventas,
               prospección, estrategia y ejecución para convertir tus acciones
               comerciales en un proceso estructurado.
             </p>
@@ -180,8 +180,7 @@ export default function Home() {
             </h2>
 
             <p className="mt-6 text-lg leading-8 text-slate-600">
-              La formación está diseñada para que no te quedes únicamente
-              con conceptos. Aprenderás herramientas comerciales y las
+              La formación está diseñada con conceptos y herramientas comerciales. Lo
               llevarás a la práctica para desarrollar una forma de vender
               más estructurada.
             </p>
