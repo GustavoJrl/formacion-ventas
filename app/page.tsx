@@ -527,12 +527,9 @@ export default function Home() {
               </p>
 
               <div className="mt-8 rounded-[28px] bg-[#15375c] p-7">
-                <p className="text-xl font-bold text-white">
-                  No importa únicamente qué vendes.
-                </p>
 
                 <p className="mt-3 leading-7 text-slate-300">
-                  Lo importante es desarrollar una metodología que te permita
+                  Desarrolla una metodología que te permita
                   prospectar, generar confianza, negociar y ejecutar una
                   estrategia comercial de forma estructurada.
                 </p>
